@@ -1,3 +1,6 @@
 CHICKEN
 DUCK
 DOG
+Caption Marvel
+Superman 
+Spiderman
